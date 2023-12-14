@@ -13,5 +13,22 @@
 * элемент 3
 
 1. Первый элемент
+
+    - подпункт первый
+
 2. Первый элемент
+
+    - подпункт второй
+
 3. Первый элемент
+
+    - подпункт третий
+    
+~~ Зачеркнутый текст~~
+
+[лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg)
+
+![лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg)
+
+
+
