@@ -36,7 +36,7 @@
 ## Уаление файла
 ```del <имя файла>```
 
-[лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg)
+[лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg "Всплывающая подсказка")
 
 ![лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg)
 
