@@ -40,5 +40,4 @@
 
 ![лето](https://samplelib.com/lib/preview/jpeg/sample-birch-400x300.jpg)
 
-
-
+Добавили текст для конфликта
